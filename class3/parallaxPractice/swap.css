@@ -1,0 +1,10 @@
+.nav {
+    background-color: transparent;
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    z-index: 10;
+    right: 0;
+    top: 0;
+
+}

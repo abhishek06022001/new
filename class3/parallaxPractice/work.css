@@ -1,0 +1,28 @@
+.c-item {
+    height: 100vh;
+}
+
+.c-img {
+    height: 70%;
+    object-fit: fill;
+
+    filter: brightness(0.6);
+}
+
+.nav1 {
+    background-color: transparent;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    z-index: 10;
+    /* right: 0; */
+    justify-self: end;
+}
+
+.dhuska {
+    color: antiquewhite;
+}
+
+#i1 {
+    color: white;
+}
