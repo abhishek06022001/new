@@ -1,0 +1,45 @@
+.lefty {
+    position: absolute;
+    left: 5%;
+    top: 10%;
+
+}
+
+.rightty {
+    position: absolute;
+    left: -518%;
+    top: 10%;
+}
+
+.text_box {
+    width: 30%;
+    height: 100%;
+    margin: 10% 0 0 10%;
+    padding: 20px;
+    /* Adjust the padding as needed */
+    top: 0;
+    border: 3px solid black;
+    color: aliceblue;
+    font-weight: bolder;
+    background-color: transparent;
+    text-align: left;
+    /* Align text to the left */
+    justify-content: flex-start;
+    text-align: end;
+    flex-direction: column;
+    /* Align content to the start for flex container */
+    display: flex;
+}
+
+.texty {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    z-index: 50;
+    width: 20%;
+    height: auto;
+    color: aliceblue;
+    font-size: large;
+    font-weight: bold;
+
+}

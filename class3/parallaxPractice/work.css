@@ -15,7 +15,7 @@
     color: white;
     font-weight: bold;
     z-index: 10;
-    /* right: 0; */
+    right: 0;
     justify-self: end;
 }
 
