@@ -1,0 +1,27 @@
+.image_container {
+    background-image: url(https://imgs.search.brave.com/n_LoL97muZyZrz0AtUCIuUhwwqE5lFBsuH3JYKTcgTg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMx/ODQ0MDY5MS9waG90/by93YWxsLW9mLXNo/aW55LWJsYWNrLWRp/c3BsYWNlZC1icmlj/a3MuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUhNUGdfUF9h/MmZrR3luYVRKUFlj/N296QXRYWVZWYmlh/T1NPOTRfall3anc9);
+    width: 100vw;
+    height: 60vh;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    /* This will make the image fill the container without maintaining aspect ratio */
+
+}
+
+.child_container {
+    /* border: 10px solid black; */
+    width: 30%;
+    height: 100%;
+    margin-right: 30%;
+    padding: 40px;
+    color: aliceblue;
+    font-weight: bolder;
+
+}
+
+.stars {
+    display: flex;
+    gap: 4px;
+
+}
